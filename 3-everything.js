@@ -1,6 +1,8 @@
 function every(array, test) {
     // Your code here.
-  }
+    
+}
+  
   
   console.log(every([1, 3, 5], n => n < 10));
   // → true
